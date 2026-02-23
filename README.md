@@ -19,7 +19,6 @@ This repo contains a cleaned, GitHub-friendly Jupyter notebook with step-by-step
    ```bash
    jupyter notebook
    ```
-4. Open `notebooks/Femis_notebook_clean.ipynb` and **Run All**.
 
 ## Notes
 - Outputs were cleared before upload to keep git diffs clean.
