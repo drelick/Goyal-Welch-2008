@@ -1,4 +1,4 @@
-# How to write solution interpretation (quick template)
+# How to write your own solution and interpretation (quick template)
 
 For each problem section, add a short markdown cell like:
 
